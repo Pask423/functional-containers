@@ -1,8 +1,9 @@
 ## Info
 
-* [Functor](https://medium.com/@PaskSoftware/what-is-a-functor-db49acd2858d)
+* [Functor](https://pasksoftware.com/what-is-functor/)
     * code in [org.pasksoftware.functor](./src/org/pasksoftware/functor)
-* [Applicative](https://medium.com/@PaskSoftware/what-is-an-applicative-3e1a6fbbe2c3)
+* [Applicative](https://pasksoftware.com/what-is-applicative/)
     * code in [org.pasksoftware.applicative](./src/org/pasksoftware/applicative)
-* [Monad](https://dzone.com/articles/what-is-a-monad-basic-theory-for-a-java-developer)
+* [Monad](https://pasksoftware.com/what-is-monad/)
     * code in [org.pasksoftware.monad](./src/org/pasksoftware/monad)
+* [In depth comparison of all three](https://pasksoftware.com/monad-functor-applicative/)
